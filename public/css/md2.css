@@ -1,0 +1,1 @@
+#nav{flex-direction:column}.sitemap-list{grid-template-columns:1fr 1fr}.sitemap-list>div:nth-child(3){display:grid;grid-area:2/1/3/3;grid-template:1fr 1fr/1fr 1fr}.links-description,.sitemap-comment{grid-column:1/3}.links-container{grid-template-columns:repeat(2,1fr)}.swiper-container .swiper-img,.swiper-container .swiper-wrapper{height:600px}.photos-container{column-count:2}

@@ -1,0 +1,48 @@
+{
+  "name": "ImQi1后台管理",
+  "short_name": "ImQi1后台管理",
+  "start_url": "https://imqi1.com/manage/",
+  "id": "/manage/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "scrope": "/",
+  "description": "ImQi1后台管理 PWA。",
+  "theme_color": "#f9fafb",
+  "lang": "zh-CN",
+  "screenshots": [
+    {
+      "src": "/static/img/admin-screenshot2.png",
+      "sizes": "510x820",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "移动端界面"
+    },
+    {
+      "src": "/static/img/admin-screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "桌面端界面"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/static/img/imqi1-64.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/img/imqi1-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/img/imqi1-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

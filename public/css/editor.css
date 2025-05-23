@@ -1,0 +1,20 @@
+.wmd-button-row {
+    height: unset;
+}
+
+.typecho-list-table textarea, .typecho-list-table .text {
+    width: 100%;
+}
+
+.typecho-list-table textarea {
+    height: 200px;
+}
+
+.fullscreen #text {
+    padding-top: 90px;
+}
+
+li.wmd-button svg {
+    width: 16px;
+    height: 16px;
+}
